@@ -19,3 +19,4 @@ sportify
 mr
 bean
 is
+lovely
