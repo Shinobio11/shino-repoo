@@ -21,3 +21,4 @@ bean
 is
 lovely
 i know
+i love peace
